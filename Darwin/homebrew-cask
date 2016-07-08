@@ -1,7 +1,6 @@
 #!/bin/sh
 
 casks=(
-    adium
     alfred
     anatine
     atom
@@ -10,14 +9,8 @@ casks=(
     brave
     caffeine
     cd-to
-    charles
-    cscreen
     dash
     dropbox
-    eclipse-ide
-    eclipse-java
-    evernote
-    fluid
     flux
     font-hasklig
     font-source-code-pro
@@ -25,10 +18,8 @@ casks=(
     font-source-serif-pro
     gimp
     github-desktop
-    gitkraken
     hex-fiend
     hyperswitch
-    intellij-idea
     iterm2-beta
     java
     java6
@@ -37,9 +28,7 @@ casks=(
     linein
     macdown
     minecraft
-    p4v
     pandoc
-    pycharm
     qlimagesize
     qlmarkdown
     qlprettypatch
