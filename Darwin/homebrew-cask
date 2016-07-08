@@ -21,9 +21,6 @@ casks=(
     hex-fiend
     hyperswitch
     iterm2-beta
-    java
-    java6
-    java7
     karabiner
     linein
     macdown
